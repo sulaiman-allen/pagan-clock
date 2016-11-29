@@ -1,0 +1,11 @@
+
+night_length(13.976) = TOTAL_HOURS(24) - day_length(10.024)
+day_bar = day_length(10.024) / TOTAL_HOURS(24) = 41.77
+night_bar = night_length(13.976) / TOTAL_HOURS(24) = 58.23
+
+
+
+
+
+
+
